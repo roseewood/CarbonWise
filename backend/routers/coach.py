@@ -1,9 +1,9 @@
 from fastapi import APIRouter, HTTPException
 from pydantic import BaseModel
 import os
-from ibm_watsonx_ai.foundation_models import Model
-from ibm_watsonx_ai.metanames import GenTextParamsMetaNames as GenParams
-from ibm_watsonx_ai import Credentials
+# from ibm_watsonx_ai.foundation_models import Model
+# from ibm_watsonx_ai.metanames import GenTextParamsMetaNames as GenParams
+# from ibm_watsonx_ai import Credentials
 
 router = APIRouter()
 
