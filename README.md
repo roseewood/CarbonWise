@@ -146,7 +146,7 @@
 
 <hr style="border: 1px solid #6f913c; margin: 30px 0;">
 
-<h2>Getting Started</h2>
+<h2>🚀Getting Started</h2>
 
 <h3>📥 Clone & Install</h3>
 
