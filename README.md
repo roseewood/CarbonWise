@@ -202,7 +202,7 @@ npm run dev
   No jargon. No guilt. Just clear insights, easy actions, and real impact.
 </p>
 
-<h2>💡 Recommendation System</h2>
+<h3>💡 Recommendation System</h3>
 
 <ul>
   <li>📊 <b>Algorithm:</b> Rule-based (targets highest category)</li>
