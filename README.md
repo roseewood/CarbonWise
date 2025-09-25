@@ -131,17 +131,28 @@
   <h3>🏠 Home Page</h3>
   <img src="Preview/Home.png" width=""/>
 
+  <hr style="border: 1px solid #6f913c; margin: 30px 0;">
+
   <h3>🧮 Carbon Calculator</h3>
   <img src="Preview/CarbonAudit.png" width=""/>
+
+  <hr style="border: 1px solid #6f913c; margin: 30px 0;">
 
   <h3>🤖 AI Coach</h3>
   <img src="Preview/AICoach.png" width=""/>
 
+  <hr style="border: 1px solid #6f913c; margin: 30px 0;">
+
   <h3>🔑 Sign Up</h3>
   <img src="Preview/SignUp.png" width=""/>
 
+  <hr style="border: 1px solid #6f913c; margin: 30px 0;">
+
   <h3>🔐 Log In</h3>
   <img src="Preview/LogIn.png" width=""/>
+
+  <hr style="border: 1px solid #6f913c; margin: 30px 0;">
+
 </div>
 
 <hr style="border: 1px solid #6f913c; margin: 30px 0;">
